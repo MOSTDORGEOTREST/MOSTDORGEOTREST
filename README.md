@@ -12,5 +12,17 @@
 
 Услуги, которые предоставляет геологическая лаборатория, включают в себя инженерно-геологические, геотехнические лабораторные исследования. Благодаря совершенному техническому оснащению, высочайшему уровню ответственности, квалификации и опыту специалистов лаборатория способна проводить исследования любой сложности.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTDORGEOTREST&layout=compact)](https://github.com/MOSTDORGEOTREST/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTDORGEOTREST&layout=compact)]
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOSTDORGEOTREST&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOSTDORGEOTREST&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MOSTDORGEOTREST=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![](https://komarev.com/ghpvc/?username=MOSTDORGEOTREST)
 
